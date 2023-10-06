@@ -1,0 +1,38 @@
+
+
+body{
+ background-image: url('/images/Screenshot\ 2023-10-06\ 092815.png');
+ background-size: cover; 
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ font-family: 'Lilita One', cursive;
+
+}
+  
+  .col-12 img{
+    transition: 1s ease;
+    }
+    
+ .col-12 img:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 2s ease;
+    }
+    
+   
+   
+ .logo {
+  font-family: 'Lilita One', cursive;
+  text-align: center; 
+  font-weight: 600; 
+  font-size: 100px;
+  margin-top: 30px; 
+      }
+
+  .row {
+    position: relative;
+    margin: 0 auto;
+  }
+  
+  
